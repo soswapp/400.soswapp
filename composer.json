@@ -1,0 +1,23 @@
+{
+    "name": "soswapp/400.soswapp",
+    "description": "7 OS Web - 400 - Bad Request page",
+    "keywords": ["php", "javascript","7","seven","os","web","page", "400", "bad", "request"],
+    "homepage": "https://github.com/soswapp/400.soswapp",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ikechukwu Okalia",
+            "email": "dev@ikechukwuokalia.com"
+        },
+        {
+            "name": "Tym Frontiers Ltd.",
+            "email": "dev@tymfrontiers.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {}
+    }
+}
